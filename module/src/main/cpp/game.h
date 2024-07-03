@@ -3,6 +3,6 @@
 
 // TODO: change this
 #define TargetLibName "libil2cpp.so"
-#define GamePackageName "com.gamedevltd.destinywarfare"
+#define GamePackageName "lol.onevone"
 
 #endif //ZYGISK_IMGUI_MODMENU_GAME_H
